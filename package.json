@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "istanbul cover ./node_modules/.bin/_mocha",
+    "smoke-test": "node test/smoke/index.js",
     "lint": "eslint ./lib --fix"
   },
   "keywords": [],
@@ -13,11 +15,14 @@
     "@babel/core": "^7.17.2",
     "@babel/plugin-syntax-dynamic-import": "^7.8.3",
     "@babel/preset-env": "^7.16.11",
+    "assert": "^2.0.0",
     "babel-loader": "^8.2.3",
+    "chai": "^4.3.6",
     "css-loader": "^2.1.1",
     "file-loader": "^6.2.0",
     "glob-all": "^3.2.1",
     "html-webpack-externals-plugin": "^3.8.0",
+    "istanbul": "^0.4.5",
     "less": "^3.13.1",
     "less-loader": "^5.0.0",
     "lib-flexible": "^0.3.2",
