@@ -8,8 +8,11 @@
     "smoke-test": "node test/smoke/index.js",
     "lint": "eslint ./lib --fix"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "webpack"
+  ],
+  "author": "whjway",
+  "repository": "https://github.com/whjway/format-date",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.17.2",
