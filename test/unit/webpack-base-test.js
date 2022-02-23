@@ -4,7 +4,7 @@ const expect = require("chai").expect;
 
 describe("webpack.base.js test case", () => {
   const baseConfig = require("../../lib/webpack.base");
-  console.log(baseConfig);
+
   it("entry", () => {
     // expect(baseConfig.entry.index).to.match(
     //   /builder\-config\-webpack\/test\/smoke\/template\/src\/index\/index.js$/
