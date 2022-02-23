@@ -3,12 +3,12 @@
 
 ### Bug Fixes
 
-* gitignore ([731472b](https://github.com/whjway/format-date/commit/731472b50e63bcf236ec6b7b00f955bccf5f5a30))
+* gitignore ([7155576](https://github.com/whjway/format-date/commit/71555764f1dfd8572fe06c2d534692277f9293fd))
 
 
 ### Features
 
-* test ([1eca866](https://github.com/whjway/format-date/commit/1eca8662ee5ef23b46fdc71ba5c5cd39eca3c11e))
+* test ([b0270c2](https://github.com/whjway/format-date/commit/b0270c209c20a33192d8f82e3ef9a5a2e1435c75))
 
 
 
