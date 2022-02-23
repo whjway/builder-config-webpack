@@ -1,3 +1,7 @@
+## [1.0.2](https://github.com/whjway/format-date/compare/v1.0.1...v1.0.2) (2022-02-23)
+
+
+
 ## [1.0.1](https://github.com/whjway/format-date/compare/f3226e53ae482758f704ac24008c32177bdd03a2...v1.0.1) (2022-02-23)
 
 
